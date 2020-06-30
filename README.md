@@ -9,7 +9,7 @@
 
 👤 **Julien Mousqueton**
 
-* Website: http://www.julienmousqueton.fr
+* Website: https://www.julienmousqueton.fr
 * Twitter: [@JMousqueton](https://twitter.com/JMousqueton)
 * Github: [@JMousqueton](https://github.com/JMousqueton)
 * LinkedIn: [@julien.mousqueton](https://linkedin.com/in/julien.mousqueton)
@@ -32,4 +32,3 @@ Copyright © 2020 [Julien Mousqueton](https://github.com/JMousqueton).
 This project is [MIT](https://github.com/JMousqueton/Follow-up-Meeting-Outlook/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
